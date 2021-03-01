@@ -36,7 +36,7 @@ I am Vinicius Araújo, graduate student in Machine Learning
 
 ## 📫 How to reach me:
 - <img height="20" src="https://i.pinimg.com/originals/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.png"> [LinkedIn](https://www.linkedin.com/in/viniciusbrandaoo/)
-- <img height="20" src="https://image.flaticon.com/icons/svg/732/732200.svg"> [Gmail](mailto:vinibraa@gmail.com)
+- <img height="20" src="https://image.flaticon.com/icons/svg/732/732200.svg"> [Gmail](mailto:vinicius.brandao.araujo@ccc.ufcg.edu.br)
 ##
 
 ![Vinicius's github stats](https://github-readme-stats.vercel.app/api?username=viniaraujoo&count_private=true&show_icons=true&theme=tokyonight)
